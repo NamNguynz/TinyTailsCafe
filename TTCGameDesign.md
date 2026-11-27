@@ -1,6 +1,5 @@
 # Tiny Tails Café Game Design & Ideology
 ## I. Thiết lập cơ bản.
-- Game được xây dựng dựa trên dòng game Papa Louie và game Animal Restaurant.
 - 1 màn chơi có 30 ải tương ứng vs 30 ngày trong 1 tháng.
 - Đơn vị tiền tệ trong game được gọi là Piyo Coin.
 - Nhân vật trong game được gọi là Furpal Critter.

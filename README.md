@@ -27,7 +27,7 @@
         - Migration: File Migration đc gói NuGet trên tạo.
 
 ## IV. Thiết đặt Game
-- Xem trong file: TTCGameDesign.md
+- Xem trong file: [Tiny Tails Café - Game Design](./TTCGameDesign.md).
 
 ## V. Cài đặt Game
 - Vào phần Release tải file TinyTailsCafe.exe về và cài đặt (Chx làm).
